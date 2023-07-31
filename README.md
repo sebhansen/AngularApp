@@ -14,3 +14,7 @@ After this, you will get some tasks, where you can create a task, delete a task,
 # Routing
 
 Routing was also implemented, where you can see the about page. Router-outlet was also used.
+
+# Credits
+
+Credits to  https://www.youtube.com/@TraversyMedia for his crash course on Angular
